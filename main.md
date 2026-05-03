@@ -1,52 +1,118 @@
+---
+layout: default
+title: Home
+---
+
 <style>
 body {
   background-color: pink;
   font-family: Arial, sans-serif;
   text-align: center;
 }
+
+/* Button styling */
+.heart-button {
+  padding: 14px 28px;
+  font-size: 18px;
+  background-color: hotpink;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.heart-button:hover {
+  background-color: deeppink;
+}
+
+/* Heart styling */
+.heart {
+  position: fixed;
+  font-size: 20px;
+  animation: floatUp 1.5s ease-out forwards;
+  pointer-events: none;
+}
+
+/* Animation */
+@keyframes floatUp {
+  0% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-150px) scale(1.5);
+    opacity: 0;
+  }
+}
 </style>
+
+
+<button class="heart-button" onclick="shootHearts()">Shoot Hearts</button>
+
 
 hi baby
 
 
-Oh baby, my baby
-How are you doing today?
-I hope its the sweetest
-You know im sincere - est
+Oh baby, my baby<br>
+How are you doing today?<br>
+I hope its the sweetest<br>
+You know im sincere - est<br>
 When I wish you love from far away.
 
-Twenty two years of age you are
-Wow you must really be so wise
-And throughout her days,
-she still has the prettiest gaze
+Twenty two years of age you are<br>
+Wow you must really be so wise<br>
+And throughout her days,<br>
+she still has the prettiest gaze<br>
 And is beautiful from her head knees toes and thighs!
 
-You truly make me feel so special baby
-I really hope you know that well.
-Because If I was there right now, I cook you a dish
-It would taste so delish
+You truly make me feel so special baby<br>
+I really hope you know that well.<br>
+Because If I was there right now, I cook you a dish<br>
+It would taste so delish<br>
 It may even be better than Taco Bell.
 
-I really can't wait until we're together
-And hug you so tightly, it be a charm!
-Because even if we are always late
-I'm telling you there is nothing more great
+I really can't wait until we're together<br>
+And hug you so tightly, it be a charm!<br>
+Because even if we are always late<br>
+I'm telling you there is nothing more great<br>
 Than just laying and cuddling in each others arms.
 
-I loved every second I've spent with you
-these past several months, wow its really flew by!
-From the dream that was Tampa, To the night in Boston,
-And the heaven of Cape Cod, and then again out in Boston,
+I loved every second I've spent with you<br>
+these past several months, wow its really flew by!<br>
+From the dream that was Tampa, To the night in Boston,<br>
+And the heaven of Cape Cod, and then again out in Boston,<br>
 It couldn't get any better, I could cry
 
-And it wasn't so long ago, we hadn't talked at all
-(Except for all those desperate texts to you)
-And then you reached out
-On my birthday, whats this about?
+And it wasn't so long ago, we hadn't talked at all<br>
+(Except for all those desperate texts to you)<br>
+And then you reached out<br>
+On my birthday, whats this about?<br>
 We're nearly full circle, now it's you're twenty-two!
 
-Oh baby, my baby, me sweet dearest, my one dearest
-How are you doing today, oh yes?
-It's my favorite question to ask
-It will always be my task,
+Oh baby, my baby, me sweet dearest, my one dearest<br>
+How are you doing today, oh yes?<br>
+It's my favorite question to ask<br>
+It will always be my task,<br>
 Because you mean the world to me, my princess.
+
+
+<script>
+function shootHearts() {
+  for (let i = 0; i < 10; i++) {
+    const heart = document.createElement("div");
+    heart.innerHTML = "💖";
+    heart.className = "heart";
+
+    // random position
+    heart.style.left = (window.innerWidth / 2 + (Math.random() * 100 - 50)) + "px";
+    heart.style.top = (window.innerHeight / 2) + "px";
+
+    document.body.appendChild(heart);
+
+    // remove after animation
+    setTimeout(() => {
+      heart.remove();
+    }, 1500);
+  }
+}
+</script>
