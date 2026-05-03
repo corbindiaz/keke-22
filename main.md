@@ -25,12 +25,10 @@ body {
   background-color: deeppink;
 }
 
-/* Heart styling */
 .heart {
-width: 50%;
-height: auto;
+  width: 30px;
+  height: auto;
   position: fixed;
-  font-size: 20px;
   animation: floatUp 1.5s ease-out forwards;
   pointer-events: none;
 }
@@ -55,7 +53,7 @@ hi baby
 
 <p align="center">
   <video autoplay loop muted playsinline width="600">
-    <source src="images/IMG_8951.MP4" type="video/mp4">
+    <source src="images/me_and_baby.mp4" type="video/mp4">
   </video>
 </p>
 
