@@ -64,7 +64,7 @@ I hope its the sweetest<br>
 You know im sincere - est<br>
 When I wish you love from far away.
 
-<img src="images/IMG_6282.jpeg" width="500">
+<img src="images/IMG_6181.jpeg" width="500">
 
 Twenty two years of age you are<br>
 Wow you must really be so wise<br>
@@ -109,6 +109,19 @@ It will always be my task,<br>
 Because you mean the world to me, my princess.
 
 <img src="images/IMG_6009.JPG" width="500">
+
+
+HAPPY BIRTHDAY MY PRETTY BABY GIRLLLLLLLL!!!!!!!!!!!!!<br>
+You're so funny and sweet and pretty and beautiful and hot and sexy and cute baby I love you so so so much!!!!! I know it's been a ruff week and I know you'll likely spend a lot of today studying, but I hope you have such a wonderful day regardless. You're twenty two!!!!! That's so exciting my baby!!! You're almost there babe, on the final stretch, your exam will be over, and then you'll be done! And then I'll come and visit and we'll have so much fun my baby <333
+
+Just know that no matter how rough it gets, no matter how much it seems like life just keeps happening and its hard to keep track, just know that I'm here, you're here, your siblings are here, your family and friends are here, Boston is here, and everything is gonna be okay. We'll all get through it together my sweet love.
+
+Also, soon its going to be the anniversary of when I reached out a little after your 21st because I desparately wanted to talk. And now here we are! It's been such a wild, fanstastic, and amazing ride with you, and heres to many more years and birthdays and poems and love messages and flowers and gifts and calls and kind words and kisses and smiles my baby <3 No one I'd rather do it with than you.
+
+Now, what are you doing!! Go have fun!! Go party!! Even if partying means learning about your lungs!! You got this baby, this day is yours, the world is yours!!
+
+Sending so so much love mi amor, te quiero,
+Corbin Stone Diaz
 
 <script>
 function shootHearts() {
