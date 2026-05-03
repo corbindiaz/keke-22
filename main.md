@@ -76,7 +76,7 @@ And is beautiful from her head knees toes and thighs!
 
 You truly make me feel so special baby<br>
 I really hope you know that well.<br>
-Because If I was there right now, I cook you a dish<br>
+Because If I was there right now, I'd cook you a dish<br>
 It would taste so delish<br>
 It may even be better than Taco Bell.
 
@@ -112,7 +112,7 @@ Because you mean the world to me, my princess.
 
 
 HAPPY BIRTHDAY MY PRETTY BABY GIRLLLLLLLL!!!!!!!!!!!!!<br>
-You're so funny and sweet and pretty and beautiful and hot and sexy and cute baby I love you so so so much!!!!! I know it's been a ruff week and I know you'll likely spend a lot of today studying, but I hope you have such a wonderful day regardless. You're twenty two!!!!! That's so exciting my baby!!! You're almost there babe, on the final stretch, your exam will be over, and then you'll be done! And then I'll come and visit and we'll have so much fun my baby <333
+You're so funny and sweet and pretty and beautiful and hot and sexy and cute baby I love you so so so much!!!!! I know it's been a rough week and I know you'll likely spend a lot of today studying, but I hope you have such a wonderful day regardless. You're twenty two!!!!! That's so exciting my baby!!! You're almost there babe, on the final stretch, your exam will be over, and then you'll be done! And then I'll come and visit and we'll have so much fun my baby <333
 
 Just know that no matter how rough it gets, no matter how much it seems like life just keeps happening and its hard to keep track, just know that I'm here, you're here, your siblings are here, your family and friends are here, Boston is here, and everything is gonna be okay. We'll all get through it together my sweet love.
 
@@ -120,7 +120,7 @@ Also, soon its going to be the anniversary of when I reached out a little after 
 
 Now, what are you doing!! Go have fun!! Go party!! Even if partying means learning about your lungs!! You got this baby, this day is yours, the world is yours!!
 
-Sending so so much love mi amor, te quiero,
+Sending so so much love mi amor, te quiero,<br>
 Corbin Stone Diaz
 
 <script>
