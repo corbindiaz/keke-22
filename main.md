@@ -7,7 +7,7 @@ title: Home
 body {
   background-color: pink;
   font-family: Arial, sans-serif;
-  text-align: center;
+  text-align: left1;
 }
 
 /* Button styling */
@@ -47,7 +47,7 @@ body {
 </style>
 
 
-<button class="heart-button" onclick="shootHearts()">Shoot Hearts</button>
+<button class="heart-button" onclick="shootHearts()">WHOOOOOOOOOOO</button>
 
 
 hi baby
@@ -95,17 +95,16 @@ It's my favorite question to ask<br>
 It will always be my task,<br>
 Because you mean the world to me, my princess.
 
-
 <script>
 function shootHearts() {
   for (let i = 0; i < 10; i++) {
-    const heart = document.createElement("div");
-    heart.innerHTML = "💖";
+    const heart = document.createElement("img");
+    heart.src = "images/balloons.png";
     heart.className = "heart";
 
     // random position
-    heart.style.left = (window.innerWidth / 2 + (Math.random() * 100 - 50)) + "px";
-    heart.style.top = (window.innerHeight / 2) + "px";
+    heart.style.left = (window.innerWidth / 2) + 1000*(Math.random() * 2 - 1) + "px";
+    heart.style.top = (window.innerHeight / 2) + 1000*(Math.random() * 2 - 1) + "px";
 
     document.body.appendChild(heart);
 
