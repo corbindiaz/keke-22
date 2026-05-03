@@ -27,6 +27,8 @@ body {
 
 /* Heart styling */
 .heart {
+width: 50%;
+height: auto;
   position: fixed;
   font-size: 20px;
   animation: floatUp 1.5s ease-out forwards;
@@ -49,8 +51,13 @@ body {
 
 <button class="heart-button" onclick="shootHearts()">WHOOOOOOOOOOO</button>
 
-
 hi baby
+
+<p align="center">
+  <video autoplay loop muted playsinline width="600">
+    <source src="images/IMG_8951.MP4" type="video/mp4">
+  </video>
+</p>
 
 
 Oh baby, my baby<br>
@@ -59,17 +66,23 @@ I hope its the sweetest<br>
 You know im sincere - est<br>
 When I wish you love from far away.
 
+<img src="images/IMG_6282.jpeg" width="500">
+
 Twenty two years of age you are<br>
 Wow you must really be so wise<br>
 And throughout her days,<br>
 she still has the prettiest gaze<br>
 And is beautiful from her head knees toes and thighs!
 
+<img src="images/IMG_5902.JPG" width="500">
+
 You truly make me feel so special baby<br>
 I really hope you know that well.<br>
 Because If I was there right now, I cook you a dish<br>
 It would taste so delish<br>
 It may even be better than Taco Bell.
+
+<img src="images/lp_image(1).jpeg" width="500">
 
 I really can't wait until we're together<br>
 And hug you so tightly, it be a charm!<br>
@@ -83,6 +96,8 @@ From the dream that was Tampa, To the night in Boston,<br>
 And the heaven of Cape Cod, and then again out in Boston,<br>
 It couldn't get any better, I could cry
 
+<img src="images/IMG_9015.JPG" width="500">
+
 And it wasn't so long ago, we hadn't talked at all<br>
 (Except for all those desperate texts to you)<br>
 And then you reached out<br>
@@ -94,6 +109,8 @@ How are you doing today, oh yes?<br>
 It's my favorite question to ask<br>
 It will always be my task,<br>
 Because you mean the world to me, my princess.
+
+<img src="images/IMG_6009.JPG" width="500">
 
 <script>
 function shootHearts() {
